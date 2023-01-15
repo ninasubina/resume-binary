@@ -1,2 +1,2 @@
 # resume.binary
-My resume
+My Resume
